@@ -3,16 +3,19 @@ DIO
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentação CAIXA Squad as Service
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Kreddo AI para criar o vídeo com avatar;
+Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente solicitei para o ChatGPT gerar um pequeno roteiro de apresentação e fiz pequenas edições com Libre Office;
+Após, através da plataforma https://www.kreadoai.com/ai/, selecionei um avatar e inseri o roteiro para geração automática do vídeo com a fala pelo avatar conforme roteiro;
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Elaboração de roteiro e gravação de vídeo de apresetação com utilização de IA
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Sensacional.
