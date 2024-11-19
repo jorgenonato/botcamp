@@ -1,6 +1,6 @@
 # botcamp
 DIO
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Botcamp CAIXA IA ;)
 
 ## 📒 Descrição
 Apresentação CAIXA Squad as Service
